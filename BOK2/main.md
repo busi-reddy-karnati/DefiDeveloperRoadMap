@@ -27,6 +27,8 @@ Install the dependencies
 * [Solidity](https://docs.soliditylang.org/en/v0.8.10/installing-solidity.html)
 [Note: instead of sol in Windows, for command line, use soljs]
 * [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation)
+* [Ganache-cli](https://www.npmjs.com/package/ganache-cli)
+* [Web3](https://www.npmjs.com/package/web3)
 * [Visual Studio Code](https://code.visualstudio.com/) (Plenty of support for developing DApps)
 
 
