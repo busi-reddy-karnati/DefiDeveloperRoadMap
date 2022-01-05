@@ -19,4 +19,15 @@ This video gives an understanding of
 * Overview of Smart Contracts(A beginner-friendly one)
 * Concept of Gas Fees and GasLimit
 * Consensus
+# [2. Ethereum Accounts](https://ethereum.org/en/whitepaper/#ethereum-accounts)
+
+# 3. Setting up Solidity on local machine
+Install the dependencies
+* [Node](https://nodejs.org/en/download/)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.10/installing-solidity.html)
+[Note: instead of sol in Windows, for command line, use soljs]
+* [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation)
+* [Visual Studio Code](https://code.visualstudio.com/) (Plenty of support for developing DApps)
+
+
 
