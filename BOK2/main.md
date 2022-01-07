@@ -32,4 +32,9 @@ Install the dependencies
 * [Visual Studio Code](https://code.visualstudio.com/) (Plenty of support for developing DApps)
 
 
-
+# 4. Developing your first Full Stack DApp.
+## 1. watch the [Video](https://www.youtube.com/watch?v=QAO7YxF7hSk&ab_channel=PolygonTV)
+    Develop along a full stack application where you first develop the smart contract,
+deploy it in the blockchain and interact with the smart contract using front end.
+This gives a clear mental model to think and a boilerplate to base future contract deployments and 
+deployments. This gives a good explanation of different jargon commonly referred to in the DeFi space.
